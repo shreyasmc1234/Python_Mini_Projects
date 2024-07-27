@@ -43,4 +43,5 @@ if i.lower()=='yes': #ignoring the casing
     print(f"Thank you {h} for participating the Quiz !!")
     print(f"Your Total Score is : {s} !! Happy Learning")
 else:
+
     quit()
