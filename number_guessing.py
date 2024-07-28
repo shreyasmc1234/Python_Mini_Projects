@@ -5,7 +5,7 @@ i=input("Please Enter the range of number :")
 if i.isdigit():
     i=int(i)
 
-    if i<=0:
+    if i==0:
         print("Please Enter the Number which is Larger than 0")
         quit()
 else:
@@ -38,6 +38,7 @@ while True:
         continue
 
 print(f"You got it correct in {s} number of attempts")
+
 
 
 #Python program to guess a number
