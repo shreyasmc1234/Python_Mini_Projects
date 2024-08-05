@@ -20,6 +20,7 @@ if i.lower()=='yes': #ignoring the casing
         print("Incorrect !")
 
     k = input("Who is the co-founder of Microsoft? :")
+   
     if k.lower() == "bill gates":
         s += 1
         print("Correct !")
@@ -27,6 +28,7 @@ if i.lower()=='yes': #ignoring the casing
         print("Incorrect !")
 
     k = input("What is the largest Plannet in the solar system? :")
+   
     if k.lower() == "jupiter":
         s += 1
         print("Correct !")
@@ -34,6 +36,7 @@ if i.lower()=='yes': #ignoring the casing
         print("Incorrect !")
 
     k = input("What is the square root of 64? :")
+    
     if k == "8":
         s += 1
         print("Correct !")

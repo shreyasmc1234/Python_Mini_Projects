@@ -10,7 +10,7 @@ while True:
 
     user_input=input("Please select your choice : \"Rock, Paper, Scissor\" or Please Enter \"Q\" to quit : ")
 
-    if user_input.upper()=="Q":
+    if user_input.upper()=="Q":::wq
         print("Thank you ! Come again :) \n\n")
         break
 
