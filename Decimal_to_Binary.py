@@ -1,4 +1,4 @@
-#Decimal to Binary program
+#Decimal to Binary program by using python
 
 number=int(input("Please Enter the number"))
 
